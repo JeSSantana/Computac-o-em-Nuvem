@@ -1,1 +1,14 @@
 Criacao e configuracao de um banco de dados SQL na AZURE
+
+Criação do banco de dados SQL no AZURE
+
+- Criar um novo banco de dados
+- Inserir o nome do Banco de dados
+- Criar um servidor
+- Metodo de autenticação – Selecionar - Usar somente a autenticação do Microsoft Entra
+ 
+Armazenamento de backup
+ 
+Lembrando que existe um gerenciamento de assinatura da Microsoft
+ 
+
